@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/choose_color"
+        android:id="@+id/choose_color">
+    </item>
+
+    <item android:title="@string/clear_all"
+        android:id="@+id/clear_all">
+    </item>
+
+    <item android:title="@string/erase"
+        android:id="@+id/erase">
+    </item>
+    <item android:title="@string/line_width"
+        android:id="@+id/line_width">
+    </item>
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_save"
+        android:title="@string/save"
+        app:showAsAction="ifRoom"/>
+
+</menu>

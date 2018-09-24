@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Painter</string>
+    <string name="choose_color">Choose color</string>
+    <string name="clear_all">Clear all</string>
+    <string name="erase">Erase</string>
+    <string name="action_menu_overflow_description">menus</string>
+    <string name="save">Save</string>
+    <string name="message_saved">Your painting has been saved to the Gallery</string>
+    <string name="message_error_saving">Error in saving</string>
+    <string name="line_imageview_description">This displays the line thickness</string>
+    <string name="title_line_width_dialog">Choose Line Width</string>
+    <string name="button_set_line_width">Set line width</string>
+    <string name="line_width">Line width</string>
+</resources>
